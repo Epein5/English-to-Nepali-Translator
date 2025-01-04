@@ -2,3 +2,5 @@ pandas
 numpy
 openpyxl
 gensim
+sentencepeice
+tensorboard

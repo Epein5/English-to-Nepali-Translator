@@ -4,3 +4,10 @@ Tokenizer/Models/
 main.ipynb
 main.py
 test.ipynb
+/runs/
+dummy_train.py
+english_sp.model
+english_sp.vocab
+nepali_sp.model
+nepali_sp.vocab
+__pycache__/
